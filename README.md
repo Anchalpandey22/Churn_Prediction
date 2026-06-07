@@ -1,5 +1,5 @@
 # Customer Churn Prediction
-### CodSoft Machine Learning Internship — Task 3
+
 
 ---
 
