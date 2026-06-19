@@ -96,7 +96,7 @@ Or run individual steps:
 ```bash
 python main.py --eda        # EDA only
 python main.py --train      # Training + evaluation only
-python main.py --predict    # Prediction demo (must train first)
+python main.py --predict    # Prediction demo (must train first) 
 ```
 
 ---
