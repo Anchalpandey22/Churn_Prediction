@@ -4,7 +4,7 @@
 ---  
   
 ## What This Project Does 
-
+ 
 Banks and subscription businesses lose money every time a customer leaves. The goal here is to **predict which customers are likely to churn** (close their account / cancel their subscription) *before* they actually do — so the business can reach out proactively with retention offers.
 
 This project builds three machine learning classifiers, compares them, and selects the best one. You also get a clean prediction interface for both single customers and batch CSV files.
