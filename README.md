@@ -147,7 +147,7 @@ print(result)
 
 ---
 
-## Evaluation Metrics
+## Evaluation Metrics 
 
 We use **ROC-AUC** as the primary metric (not accuracy) because:
 - The dataset is imbalanced (~20% churn)
